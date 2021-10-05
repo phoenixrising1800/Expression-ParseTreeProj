@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/phoenixcamacho/VSCode/Expression-ParseTreeProj/build",
+  "command": "/usr/local/bin/x86_64-apple-darwin19-gcc-11.2.0  -isystem /usr/local/include/igraph -isystem /usr/local/include -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/main.dir/main.c.o -c /Users/phoenixcamacho/VSCode/Expression-ParseTreeProj/main.c",
+  "file": "/Users/phoenixcamacho/VSCode/Expression-ParseTreeProj/main.c"
+}
+]

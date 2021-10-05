@@ -1,0 +1,2 @@
+- igraph lib compiled staticly
+- compile: cmake --build .
